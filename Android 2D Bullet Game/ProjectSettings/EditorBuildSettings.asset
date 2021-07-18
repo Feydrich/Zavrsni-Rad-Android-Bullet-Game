@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: abc70a3df5362384f8fd979eb786ceba
+  - enabled: 1
+    path: Assets/Scenes/Zones/Forest - Clean/ForestMain.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Zones/Forest - Clean/ForestStart.unity
+    guid: 9d869e6d4770ff34d9e07b66393a6a3c
+  - enabled: 1
+    path: Assets/Scenes/Zones/Forest - Clean/ForestEmpty.unity
+    guid: d67591144a22b7e438d004eeeaab485d
+  - enabled: 1
+    path: Assets/Scenes/Zones/Forest - Clean/ForestBasic1.unity
+    guid: 8c4f37139e92ec24fa43483feb7f3d4a
+  - enabled: 1
+    path: Assets/Scenes/Zones/Forest - Clean/ForestEnd.unity
+    guid: e2014d8fa760912439b0802345987eba
+  - enabled: 1
+    path: Assets/Scenes/Zones/Beach - Full Corruption/Beach3Basic1.unity
+    guid: 8651d4f98fc9c46489f0a1ac84d85544
+  - enabled: 1
+    path: Assets/Scenes/Zones/Beach - Full Corruption/Beach3End.unity
+    guid: 66a5c6b6d7447e048883119770b16ff5
+  - enabled: 1
+    path: Assets/Scenes/Zones/Beach - Full Corruption/Beach3Main.unity
+    guid: ffc6bb573a32f004d936261b8753add1
+  - enabled: 1
+    path: Assets/Scenes/Zones/Beach - Full Corruption/Beach3Empty.unity
+    guid: f0704be19deb18e4eaffea0482aa6fc8
+  - enabled: 1
+    path: Assets/Scenes/Zones/Beach - Full Corruption/Beach3Start.unity
+    guid: 07720545d83094041abacc884b530106
+  - enabled: 1
+    path: Assets/Scenes/Zones/Forest - Partial Corruption/Forest2Basic1.unity
+    guid: 2490c5358bf3db447b0a9ddbffe0ae61
+  - enabled: 1
+    path: Assets/Scenes/Zones/Forest - Partial Corruption/Forest2Empty.unity
+    guid: 56f1fa5530b27064bb5b262f6d358043
+  - enabled: 1
+    path: Assets/Scenes/Zones/Forest - Partial Corruption/Forest2End.unity
+    guid: 7777cc4bdf72b6d479c79d77546db2a1
+  - enabled: 1
+    path: Assets/Scenes/Zones/Forest - Partial Corruption/Forest2Main.unity
+    guid: 90bbec1655804d242934adbe9b7a756c
+  - enabled: 1
+    path: Assets/Scenes/Zones/Forest - Partial Corruption/Forest2Start.unity
+    guid: 93a5636a30b31444489df64bc988266a
+  - enabled: 1
+    path: Assets/Scenes/Zones/Beach - Partial Corruption/Beach2Basic1.unity
+    guid: 2c0072149b27558419d82cc66ff037cc
+  - enabled: 1
+    path: Assets/Scenes/Zones/Beach - Partial Corruption/Beach2End.unity
+    guid: c611ecfdced01ed4ea33ed0027a551f8
+  - enabled: 1
+    path: Assets/Scenes/Zones/Beach - Partial Corruption/Beach2Main.unity
+    guid: 4c86a7a39d677e349ab7b18e74bb4245
+  - enabled: 1
+    path: Assets/Scenes/Zones/Beach - Partial Corruption/Beach2Empty.unity
+    guid: 09ab60ed1c9484d4a8d84da0e573ba96
+  - enabled: 1
+    path: Assets/Scenes/Zones/Beach - Partial Corruption/Beach2Start.unity
+    guid: 2fdcbb4a719ed224796e707e58f3cf4f
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: e3133fef32035214896b964435a6c0be
+  - enabled: 1
+    path: Assets/Scenes/Map.unity
+    guid: aa9f3570b2875c4429da4814962412a5
+  - enabled: 1
+    path: Assets/Scenes/Zones/Forest - Full Corruption/Forest3Basic1.unity
+    guid: b2b0d58cf4b9ab145b109b95b3ce6978
+  - enabled: 1
+    path: Assets/Scenes/Zones/Forest - Full Corruption/Forest3Empty.unity
+    guid: 44657a839ff38be48b364a58f1d64ff2
+  - enabled: 1
+    path: Assets/Scenes/Zones/Forest - Full Corruption/Forest3End.unity
+    guid: 0e9bd8288d5d90846ba571e34cdceed8
+  - enabled: 1
+    path: Assets/Scenes/Zones/Forest - Full Corruption/Forest3Main.unity
+    guid: 0b922ae9ff12a524bb50438a24d234a1
+  - enabled: 1
+    path: Assets/Scenes/Zones/Forest - Full Corruption/Forest3Start.unity
+    guid: 43c12c57bc53bb94cb4b0acf0cd98596
+  - enabled: 1
+    path: Assets/Scenes/Zones/Beach - Clean/BeachBasic1.unity
+    guid: e32bde5abf51072438d94303abe6ba46
+  - enabled: 1
+    path: Assets/Scenes/Zones/Beach - Clean/BeachEmpty.unity
+    guid: 4cbe64281520f5a44bc52e57d403cefe
+  - enabled: 1
+    path: Assets/Scenes/Zones/Beach - Clean/BeachEnd.unity
+    guid: ae5ae75442e39794a89649b30af65d1e
+  - enabled: 1
+    path: Assets/Scenes/Zones/Beach - Clean/BeachMain.unity
+    guid: fafeb2794640ada46b171aaae8119613
+  - enabled: 1
+    path: Assets/Scenes/Zones/Beach - Clean/BeachStart.unity
+    guid: 1073cdf5e69ce914a81fff44d632db24
+  - enabled: 1
+    path: Assets/Scenes/Zones/Snow - Clean/SnowBasic1.unity
+    guid: e35eddaa9b09bc84d975777d268ee089
+  - enabled: 1
+    path: Assets/Scenes/Zones/Snow - Clean/SnowEmpty.unity
+    guid: 00e2194267a56f8478ae5c3cbd45ce8f
+  - enabled: 1
+    path: Assets/Scenes/Zones/Snow - Clean/SnowEnd.unity
+    guid: 963e21ad2f51748459e682069f14c4f0
+  - enabled: 1
+    path: Assets/Scenes/Zones/Snow - Clean/SnowMain.unity
+    guid: c45517cce1eaf494dbdf8656ef1fd3d2
+  - enabled: 1
+    path: Assets/Scenes/Zones/Snow - Clean/SnowStart.unity
+    guid: d7c14e395556d244cb16d918cd76f053
+  - enabled: 1
+    path: Assets/Scenes/Zones/Snow - Full Corruption/Snow2Basic1.unity
+    guid: 6473f46e90c53ce43b1d6dec2b2a291a
+  - enabled: 1
+    path: Assets/Scenes/Zones/Snow - Full Corruption/Snow2End.unity
+    guid: 729db5a8c0421744bb1e1980503126c2
+  - enabled: 1
+    path: Assets/Scenes/Zones/Snow - Full Corruption/Snow2Main.unity
+    guid: 6fff75823e96ed341baed0c5de7e3a3e
+  - enabled: 1
+    path: Assets/Scenes/Zones/Snow - Full Corruption/Snow2Empty.unity
+    guid: 27e514fc17feeb14ba30a4076e937082
+  - enabled: 1
+    path: Assets/Scenes/Zones/Snow - Full Corruption/Snow2Start.unity
+    guid: b1075e4731f3736479a76c5d4a534b40
+  - enabled: 1
+    path: Assets/Scenes/Zones/Tundra/TundraBasic1.unity
+    guid: 49152d4efbcf4a343a21fe27a72d836b
+  - enabled: 1
+    path: Assets/Scenes/Zones/Tundra/TundraEnd.unity
+    guid: b9dfffa17998b2a41b52527a7710ca12
+  - enabled: 1
+    path: Assets/Scenes/Zones/Tundra/TundraStart.unity
+    guid: 7e511167a4c18f44eb4bbb91f4ebcf3f
+  - enabled: 1
+    path: Assets/Scenes/Zones/Tundra/TundraMain.unity
+    guid: fbe7bb4cbff2fb24e92c9965ee2b3cdc
+  - enabled: 1
+    path: Assets/Scenes/Zones/Tundra/TundraEmpty.unity
+    guid: 278bda617e9a2774d9dc1f822ae52a4d
+  m_configObjects: {}

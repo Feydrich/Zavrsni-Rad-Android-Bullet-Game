@@ -58,3 +58,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+/Android 2D Bullet Game/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Presets/Pixel Perfect Cameras/*.preset
+/Android 2D Bullet Game/Library/PackageCache/com.unity.2d.pixel-perfect@3.0.2/Samples~/Scenes and Extras/Scenes/Presets/Pixel Perfect Cameras/*.meta

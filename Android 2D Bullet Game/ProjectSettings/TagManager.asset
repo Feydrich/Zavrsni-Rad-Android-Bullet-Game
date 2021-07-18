@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Fog
+  - Flamable
+  - Beach - Clean
+  - Beach - Partial Corruption
+  - Beach - Full Corruption
+  - Forest - Clean
+  - Forest - Full Corruption
+  - Forest - Partial Corruption
+  - Tundra
+  - Snow - Clean
+  - Snow - Full Corruption
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 75194951
+    locked: 0
+  - name: Floor
+    uniqueID: 3136346281
+    locked: 0
+  - name: Roads
+    uniqueID: 1537015897
+    locked: 0
+  - name: Effect
+    uniqueID: 2781125053
+    locked: 0
+  - name: Everything
+    uniqueID: 1288366259
+    locked: 0
+  - name: Obsticle
+    uniqueID: 2864129625
+    locked: 0
+  - name: Unknown
+    uniqueID: 3864642923
+    locked: 0
+  - name: Grass
+    uniqueID: 4144792447
+    locked: 0
+  - name: Tundra
+    uniqueID: 1860405453
+    locked: 0
+  - name: Snow
+    uniqueID: 3789674775
+    locked: 0
+  - name: Sand
+    uniqueID: 969314967
+    locked: 0
+  - name: MapRoad
+    uniqueID: 2732999889
+    locked: 0
+  - name: MapItems
+    uniqueID: 1705823933
+    locked: 0
+  - name: Border
+    uniqueID: 36754575
+    locked: 0
+  - name: Outline
+    uniqueID: 257262293
+    locked: 0
